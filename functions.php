@@ -103,7 +103,7 @@ function canIEatMeatAtDate($date) {
             "uroczystość Niepokalanego Poczęcia NMP" => $tY.'-12-08',
             "Boże Narodzenie" => $tY.'-12-25',
             "Oktawa Wielkanocy" => piatekPoWielkanocy($tY),
-            "uroczysość Najświętszego Serca Pana Jezusa" => nspj($tY),
+            "uroczystość Najświętszego Serca Pana Jezusa" => nspj($tY),
         ];
 
     $oktawaBN = piatekPoBozymNarodzeniu($tY);
